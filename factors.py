@@ -4,5 +4,5 @@ for index in range(integer, 0, -1):
     if index % 2 == 0:
       print('Even!')
     else:
-      print('Odd!'
+      print('Odd!')
     print(index, end = ' ')
